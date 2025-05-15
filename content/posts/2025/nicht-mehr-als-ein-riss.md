@@ -4,6 +4,9 @@ date = "2025-05-14"
 categories = [
     "Introspektionen"
 ]
+series = [
+    "Trauma-Introspektionen"
+]
 +++
 
 Manchmal frage ich mich, ob ich jemals irgendwo wirklich war. Ob ich je einen Ort berührt habe, ohne zu verblassen.
