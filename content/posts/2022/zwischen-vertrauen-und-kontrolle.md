@@ -4,9 +4,6 @@ date = "2022-03-10"
 categories = [
     "Essays"
 ]
-series = [
-    "Bitcoin-Essays"
-]
 +++
 
 **Wer Verantwortung trägt, braucht keine Erlaubnis mehr zu vertrauen.**

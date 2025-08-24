@@ -4,9 +4,6 @@ date = "2020-06-25"
 categories = [
     "Essays"
 ]
-series = [
-    "Bitcoin-Essays"
-]
 +++
 
 **Ein neuer Weg entsteht, wenn wir den alten verlassen.**

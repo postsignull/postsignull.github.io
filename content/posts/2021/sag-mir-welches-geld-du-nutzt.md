@@ -4,9 +4,6 @@ date = "2021-07-15"
 categories = [
     "Essays"
 ]
-series = [
-    "Bitcoin-Essays"
-]
 +++
 
 **Dein Geld zeigt deinen Glauben – und deine Zukunft.**

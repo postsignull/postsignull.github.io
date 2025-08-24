@@ -4,9 +4,6 @@ date = "2022-09-03"
 categories = [
     "Essays"
 ]
-series = [
-    "Bitcoin-Essays"
-]
 +++
 
 **Wahrheit entsteht nicht durch Macht – sondern durch Verbindung.**

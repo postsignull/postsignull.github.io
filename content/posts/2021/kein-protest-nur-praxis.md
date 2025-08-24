@@ -4,9 +4,6 @@ date = "2021-02-04"
 categories = [
     "Essays"
 ]
-series = [
-    "Bitcoin-Essays"
-]
 +++
 
 **Wahrer Wandel reift in der Stille.**

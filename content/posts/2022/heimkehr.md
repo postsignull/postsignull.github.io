@@ -4,9 +4,6 @@ date = "2022-06-26"
 categories = [
     "Essays"
 ]
-series = [
-    "Bitcoin-Essays"
-]
 +++
 
 **Wahre Revolution beginnt im Bau, nicht im Kampf.**

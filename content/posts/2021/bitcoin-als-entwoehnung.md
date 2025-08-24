@@ -4,9 +4,6 @@ date = "2021-04-30"
 categories = [
     "Essays"
 ]
-series = [
-    "Bitcoin-Essays"
-]
 +++
 
 **Freiheit beginnt mit dem Verlernen des Gewohnten.**

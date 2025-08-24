@@ -4,9 +4,6 @@ date = "2020-08-09"
 categories = [
     "Essays"
 ]
-series = [
-    "Bitcoin-Essays"
-]
 +++
 
 **Freiheit beginnt, wenn du loslässt.**

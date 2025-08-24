@@ -13,6 +13,6 @@ categories = [
 5. Das Schweigen des Universums ist keine Antwort. Es ist die endgültige Form der Gleichgültigkeit.
 6. Ein Augenblick und schon ist er verloren. Wir wandern. Aber wohin?
 7. Ein Kind schweigt nicht aus Höflichkeit. Es hört bloß Dinge, die Erwachsene längst verlernt haben zu hören.
-8. Der Tod ist kein Ende, sondern ein Echo, das durch die Ewigkeit hallt.
-9. Das Protokoll ist nicht moralisch. Es ist gerecht, weil es niemanden kennt.
+8. Stille ist nicht leer. Sie ist voll von dem, was wir zu lange überhört haben.
+9. Wer sich selbst verliert, kann das Universum sehen, ohne dass es ihn erkennt.
 10. Am Ende sind es nicht die verlorenen Jahre, die uns quälen. Es sind die ungelebten Minuten.
