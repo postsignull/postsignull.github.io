@@ -4,6 +4,7 @@ date = "2025-09-08"
 categories = [
     "Introspektionen"
 ]
+images = ["/images/post-image-2.jpg"]
 +++
 
 Es ist kein Zustand, den ich rufen könnte. Es ist etwas, das mich ruft. Ich nenne es Schweben, weil jedes andere Wort zu laut, zu fest, zu grob wäre. Schweben ist nicht Traum, nicht Illusion, nicht Fantasie. Schweben ist das Gegenteil: die Auflösung des Traumes, den ich Leben nenne.

@@ -4,6 +4,7 @@ date = "2021-07-15"
 categories = [
     "Essays"
 ]
+images = ["/images/post-image-1.jpg"]
 +++
 
 **Dein Geld zeigt deinen Glauben – und deine Zukunft.**

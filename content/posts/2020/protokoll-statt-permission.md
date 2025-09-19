@@ -4,6 +4,7 @@ date = "2020-06-25"
 categories = [
     "Essays"
 ]
+images = ["/images/post-image-1.jpg"]
 +++
 
 **Ein neuer Weg entsteht, wenn wir den alten verlassen.**

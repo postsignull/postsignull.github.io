@@ -4,6 +4,7 @@ date = "2022-09-03"
 categories = [
     "Essays"
 ]
+images = ["/images/post-image-1.jpg"]
 +++
 
 **Wahrheit entsteht nicht durch Macht – sondern durch Verbindung.**

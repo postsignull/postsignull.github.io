@@ -4,6 +4,7 @@ date = "2021-02-04"
 categories = [
     "Essays"
 ]
+images = ["/images/post-image-1.jpg"]
 +++
 
 **Wahrer Wandel reift in der Stille.**

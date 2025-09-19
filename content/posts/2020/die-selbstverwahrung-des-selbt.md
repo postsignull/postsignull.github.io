@@ -4,6 +4,7 @@ date = "2020-08-09"
 categories = [
     "Essays"
 ]
+images = ["/images/post-image-1.jpg"]
 +++
 
 **Freiheit beginnt, wenn du loslässt.**

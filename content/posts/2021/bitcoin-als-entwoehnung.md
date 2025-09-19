@@ -4,6 +4,7 @@ date = "2021-04-30"
 categories = [
     "Essays"
 ]
+images = ["/images/post-image-1.jpg"]
 +++
 
 **Freiheit beginnt mit dem Verlernen des Gewohnten.**

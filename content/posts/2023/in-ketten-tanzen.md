@@ -4,6 +4,7 @@ date = "2023-01-12"
 categories = [
     "Essays"
 ]
+images = ["/images/post-image-1.jpg"]
 +++
 
 **Man lebt nicht trotz des Nichts – man lebt in ihm.**

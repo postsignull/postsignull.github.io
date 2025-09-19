@@ -4,6 +4,7 @@ date = "2025-09-19"
 categories = [
     "Introspektionen"
 ]
+images = ["/images/post-image-2.jpg"]
 +++
 
 Die Zeit wird fremd in mir. Sie wandelt noch durch die Räume meines Lebens, doch sie berührt nichts mehr. Vergangenheit und Zukunft sind zu Schatten geworden, die sich nicht mehr von den Wänden lösen wollen. Im Schweben gibt es nur ein Jetzt, aber es ist ein Jetzt ohne Dauer – ein Augenblick, der sich unendlich dehnt und dabei verschwindet wie Rauch.

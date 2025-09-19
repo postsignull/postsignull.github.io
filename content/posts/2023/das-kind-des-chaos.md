@@ -4,6 +4,7 @@ date = "2023-07-27"
 categories = [
     "Essays"
 ]
+images = ["/images/post-image-1.jpg"]
 +++
 
 **Wo nichts verlangt wird, wächst der Raum.**

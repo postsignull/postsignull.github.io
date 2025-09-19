@@ -4,6 +4,7 @@ date = "2024-07-10"
 categories = [
     "Essays"
 ]
+images = ["/images/post-image-1.jpg"]
 +++
 
 **Wenn die Welt unkenntlich wird, beginnt die Suche nach dem Inneren.**

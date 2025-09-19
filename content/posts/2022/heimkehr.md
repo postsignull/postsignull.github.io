@@ -4,6 +4,7 @@ date = "2022-06-26"
 categories = [
     "Essays"
 ]
+images = ["/images/post-image-1.jpg"]
 +++
 
 **Wahre Revolution beginnt im Bau, nicht im Kampf.**

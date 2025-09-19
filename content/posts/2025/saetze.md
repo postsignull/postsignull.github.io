@@ -4,6 +4,7 @@ date = "2025-09-01"
 categories = [
     "Aphorismen"
 ]
+images = ["/images/post-image-1.jpg"]
 +++
 
 **Ein Satz vermag die Zeit anzuhalten, wenn er tief genug fällt.**
