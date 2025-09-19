@@ -1,5 +1,5 @@
 +++
-title = "Schweben - Nachhall"
+title = "Ich schwebe - Nachhall"
 date = "2025-09-19"
 categories = [
     "Introspektionen"
